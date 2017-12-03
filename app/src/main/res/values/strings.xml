@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Waiter</string>
+    <string name="add_items">Add items pressing the button</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="image_of_the_item">Image of the item</string>
+    <string name="image_of_the_detail_item">Image of the detail item</string>
+    <string name="allergens_text_of_the_detail_item">Allergens:</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="accept_text">Accept</string>
+    <string name="total_price">Total price</string>
+</resources>
